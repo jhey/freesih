@@ -1,0 +1,52 @@
+#header{margin-top:20px}#page-container{margin-bottom:20px}#url-rewriting-warning{display:none}
+
+.fright {
+	float: right;
+}
+.fleft {
+	float: left;
+}
+.appbody {
+	min-height: 400px;
+}
+
+h2 {
+	text-align: center;
+	
+}
+
+#project_name {
+	display: inline;
+	font-weight: bold;
+}
+
+#homesplash {
+	width: 100%;
+	text-align: center;
+}
+.home_button {
+	width: 220px;
+}
+
+
+
+.xnavbar {
+	margin-bottom: 15px;
+	color: #444;
+}
+.xnavbar a, .xnavbar a:hover {
+	text-decoration: none;
+	margin-bottom: 15px;
+	color: #444;
+}
+
+#footer container {
+	font-size: 11px;
+	text-decoration: none;
+	margin-bottom: 15px;
+	color: #444;
+}
+#footer {
+	color: grey;
+	font-size: 12px;
+}
